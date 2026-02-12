@@ -31,3 +31,4 @@ Note: This project took place in 2020. Ai was used to help me resummarize the pr
 
 https://github.com/NateS-Ag3225/sensors_project_current_transducer
 
+![Current Sensor Setup](sensor.jpg)
